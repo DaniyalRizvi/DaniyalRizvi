@@ -11,6 +11,9 @@
 </div>
 
 ---------
+
+### :man_technologist: About Me :
+
 - :telescope: I’m working as a Lead Game Developer.
 
 - :zap: I specialise in creating Multiplayer Games, CCG/TCG Games , MMORPG Games
@@ -21,7 +24,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div id="serviceicons" align = "center">
+<div id="serviceicons">
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" **alt="Firebase" width="80" height="80"/>&nbsp;
@@ -32,12 +35,6 @@
 
 ### :fire: My Stats :
 
-<div id="serviceicons" align = "center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaniyalRizvi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-<div id="languages" align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalRizvi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
