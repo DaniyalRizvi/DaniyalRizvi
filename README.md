@@ -13,7 +13,7 @@
 ---------
 
 # 💫 About Me:
-🔭 I’m working as a Lead Game Developer.<br>⚡ I specialize in creating Multiplayer Games, CCG/TCG Games, MMORPG Games<br>📫How to reach me: Linkedin Badge
+🔭 I’m working as a Lead Game Developer.<br>⚡ I specialize in creating Multiplayer Games, CCG/TCG Games, MMORPG Games<br>
 
 
 ## 🌐 Socials:
